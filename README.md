@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JhenrySierra
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning WEb Development, on my road to become Full-Stack Developer
-- 💞️ I’m looking to collaborate on any Landing Page, Email HTML Development, Front-End code with HTML & CSS.
+- 💞️ I’m looking to collaborate on any Landing Page, Email HTML Development, Front-End code with HTML & CSS, Frameworks like Bootstrap, Tailwind CSS...
 - 📫 How to reach me you cand find Jhenry Sierra on LinkedIn
 
 <!---
