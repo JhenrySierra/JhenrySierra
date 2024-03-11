@@ -4,13 +4,13 @@
 
 I'm Jhenry Sierra, a Software Developer enthusiast with a passion for Front-End Development. Welcome to my GitHub profile!
 
-As a front-end engineer, I have a solid knowledge in React JS, Vanilla JavaScript & Web Development, and have created numerous user-friendly interfaces. Currently, I'm expanding my skill set to include Back-End development. I'm excited to delve into technologies like Node.js and Express, as they enable me to build robust and efficient server-side applications.
+As a full-stack developer, I've honed my expertise in React JS, Vanilla JavaScript, and web development, crafting numerous user-friendly interfaces. Having completed my studies in backend development, I'm thrilled to broaden my skill set with technologies like Node.js and Express. These tools empower me to construct robust and efficient server-side applications, further enhancing my ability to deliver comprehensive solutions.
 
 ## 💻 Skills
 - React JS
 - Vanilla Javascript
-- Node.js (In Progress)
-- Express (In Progress)
+- Node.js
+- Express
 - HTML / CSS / SCSS / BootStrap
 - Git / gitHub
 
