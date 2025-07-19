@@ -20,7 +20,6 @@ I'm also an avid learner and enjoy taking online courses and attending meetups t
 
 ## 🌟 Interesting Facts
 - I speak two languages fluently: English and Spanish.
-- I once won a hackathon for developing a mobile app that helps people find nearby restaurants.
 - I have a pet dog named Manchitas who loves to sit on my lap while I'm coding.
 
 ## 📫 Contact Me
