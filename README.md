@@ -1,28 +1,62 @@
-# Hello, World! 👋
+# Hi there 👋 I'm Jhenry 
 
-## 🌟 About Me
+I'm a Software Developer focused on building scalable solutions that help businesses automate processes, improve operations, and solve real-world problems through technology.
 
-I'm Jhenry Sierra, a Software Developer enthusiast with a passion for Front-End Development. Welcome to my GitHub profile!
+My experience spans full-stack development, business process automation, AI-powered workflows, systems integration, and enterprise software. I enjoy transforming complex business requirements into practical, reliable applications that deliver measurable value.
 
-As a full-stack developer, I've honed my expertise in React JS, Vanilla JavaScript, and web development, crafting numerous user-friendly interfaces. Having completed my studies in backend development, I'm thrilled to broaden my skill set with technologies like Node.js and Express. These tools empower me to construct robust and efficient server-side applications, further enhancing my ability to deliver comprehensive solutions.
+As the founder of **Techtonic Solutions**, I design and develop custom software tailored to each organization's workflow—from internal management systems and customer-facing platforms to operational tools that streamline day-to-day processes.
 
-## 💻 Skills
-- React JS
-- Vanilla Javascript
+## 🚀 What I Build
+
+- Custom Business Applications
+- Business Process Automation
+- AI Integration & Intelligent Workflows
+- Enterprise Software
+- POS & Inventory Management Systems
+- CRM & Business Management Platforms
+- REST APIs & Third-Party Integrations
+- Cloud-Based Applications
+- Internal Operational Tools
+- Modern Web Applications
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Backend
 - Node.js
-- Express
-- HTML / CSS / SCSS / BootStrap
-- Git / gitHub
+- Express.js
 
-## 🎮 Hobbies and Interests
-When I'm not coding, you can find me reading books about technology and entrepreneurship, playing video games, or exploring new places. 
-I'm also an avid learner and enjoy taking online courses and attending meetups to continue my professional development.
+### Databases
+- MongoDB
+- SQL Server
+- MySQL
 
-## 🌟 Interesting Facts
-- I speak two languages fluently: English and Spanish.
-- I have a pet dog named Manchitas who loves to sit on my lap while I'm coding.
+### Tools & Platforms
+- Git
+- GitHub
+- Docker
+- Firebase
+- REST APIs
 
-## 📫 Contact Me
-You can find me on [LinkedIn](https://www.linkedin.com/in/jhenry-sierra/). I'm always interested in collaborating on any front-end or back-end development projects, so feel free to reach out and connect with me.
+## 💡 What Drives Me
 
-Thank you for stopping by my GitHub profile!
+I enjoy designing software that simplifies complex workflows, reduces manual effort, and helps businesses scale efficiently. My approach combines technical execution with a strong understanding of business operations, allowing me to build solutions that are both practical and maintainable.
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: *Coming Soon*
+- 💼 LinkedIn: *Add your profile here*
+- 📧 Email: *Add your email here*
+
+> *Always learning. Always building.*
+```
